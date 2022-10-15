@@ -1,8 +1,8 @@
 import {
 	BufferGeometry,
 	Float32BufferAttribute
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
-import { ConvexHull } from "https://r9uk0.github.io/Crashedchocolate/math/ConvexHull.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
+import { ConvexHull } from "https://r9uk0.github.io/crashedchocolate/math/ConvexHull.js';
 
 class ConvexGeometry extends BufferGeometry {
 

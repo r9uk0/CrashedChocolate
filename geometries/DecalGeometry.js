@@ -3,7 +3,7 @@ import {
 	Float32BufferAttribute,
 	Matrix4,
 	Vector3
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
 
 /**
  * You can use this geometry to create a decal mesh, that serves different kinds of purposes.

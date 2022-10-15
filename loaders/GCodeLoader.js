@@ -7,7 +7,7 @@ import {
 	LineBasicMaterial,
 	LineSegments,
 	Loader
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
 
 /**
  * GCodeLoader is used to load gcode files usually used for 3D printing or CNC applications.

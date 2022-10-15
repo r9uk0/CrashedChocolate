@@ -12,7 +12,7 @@ import {
 	Mesh,
 	MeshPhongMaterial,
 	TextureLoader
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
 
 /**
  * Autodesk 3DS three.js file loader, based on lib3ds.

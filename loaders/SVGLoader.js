@@ -11,7 +11,7 @@ import {
 	ShapeUtils,
 	Vector2,
 	Vector3
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
 
 class SVGLoader extends Loader {
 

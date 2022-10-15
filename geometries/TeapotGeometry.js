@@ -4,7 +4,7 @@ import {
 	Matrix4,
 	Vector3,
 	Vector4
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
 
 /**
  * Tessellates the famous Utah teapot database by Martin Newell into triangles.

@@ -5,8 +5,8 @@ import {
 	MathUtils,
 	Uint32BufferAttribute,
 	Vector3
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
-import { SimplexNoise } from "https://r9uk0.github.io/Crashedchocolate/math/SimplexNoise.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
+import { SimplexNoise } from "https://r9uk0.github.io/crashedchocolate/math/SimplexNoise.js';
 
 /**
  * @fileoverview LightningStrike object for creating lightning strikes and voltaic arcs.

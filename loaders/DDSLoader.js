@@ -5,7 +5,7 @@ import {
 	RGBA_S3TC_DXT5_Format,
 	RGB_ETC1_Format,
 	RGB_S3TC_DXT1_Format
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
 
 class DDSLoader extends CompressedTextureLoader {
 

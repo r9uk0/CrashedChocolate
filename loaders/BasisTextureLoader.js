@@ -15,7 +15,7 @@ import {
 	RGB_PVRTC_4BPPV1_Format,
 	RGB_S3TC_DXT1_Format,
 	UnsignedByteType
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
 
 /**
  * Loader for Basis Universal GPU Texture Codec.

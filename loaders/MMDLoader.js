@@ -36,10 +36,10 @@ import {
 	RGB_PVRTC_2BPPV1_Format,
 	RGB_ETC1_Format,
 	RGB_ETC2_Format
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
-import { MMDToonShader } from "https://r9uk0.github.io/Crashedchocolate/shaders/MMDToonShader.js';
-import { TGALoader } from "https://r9uk0.github.io/Crashedchocolate/loaders/TGALoader.js';
-import { MMDParser } from "https://r9uk0.github.io/Crashedchocolate/libs/mmdparser.module.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
+import { MMDToonShader } from "https://r9uk0.github.io/crashedchocolate/shaders/MMDToonShader.js';
+import { TGALoader } from "https://r9uk0.github.io/crashedchocolate/loaders/TGALoader.js';
+import { MMDParser } from "https://r9uk0.github.io/crashedchocolate/libs/mmdparser.module.js';
 
 /**
  * Dependencies

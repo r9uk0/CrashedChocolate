@@ -6,7 +6,7 @@ import {
 	Loader,
 	LoaderUtils,
 	Vector3
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
 
 /**
  * Description: A THREE loader for STL ASCII files, as created by Solidworks and other CAD programs.

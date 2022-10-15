@@ -1,7 +1,7 @@
 import {
 	Loader
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
-import { GLTFLoader } from "https://r9uk0.github.io/Crashedchocolate/loaders/GLTFLoader.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
+import { GLTFLoader } from "https://r9uk0.github.io/crashedchocolate/loaders/GLTFLoader.js';
 
 // VRM Specification: https://dwango.github.io/vrm/vrm_spec/
 //

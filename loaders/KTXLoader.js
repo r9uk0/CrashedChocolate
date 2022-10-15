@@ -1,6 +1,6 @@
 import {
 	CompressedTextureLoader
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
 
 /**
  * for description see https://www.khronos.org/opengles/sdk/tools/KTX/

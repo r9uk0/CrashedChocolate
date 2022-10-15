@@ -30,8 +30,8 @@ import {
 	RGB_S3TC_DXT1_Format,
 	sRGBEncoding,
 	UnsignedByteType
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
-import { WorkerPool } from "https://r9uk0.github.io/Crashedchocolate/utils/WorkerPool.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
+import { WorkerPool } from "https://r9uk0.github.io/crashedchocolate/utils/WorkerPool.js';
 
 const KTX2TransferSRGB = 2;
 const KTX2_ALPHA_PREMULTIPLIED = 1;

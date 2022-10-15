@@ -33,8 +33,8 @@ import {
 	TextureLoader,
 	Vector2,
 	Vector3
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
-import chevrotain from "https://r9uk0.github.io/Crashedchocolate/libs/chevrotain.module.min.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
+import chevrotain from "https://r9uk0.github.io/crashedchocolate/libs/chevrotain.module.min.js';
 
 
 class VRMLLoader extends Loader {

@@ -40,9 +40,9 @@ import {
 	Vector4,
 	VectorKeyframeTrack,
 	sRGBEncoding
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
-import * as fflate from "https://r9uk0.github.io/Crashedchocolate/libs/fflate.module.js';
-import { NURBSCurve } from "https://r9uk0.github.io/Crashedchocolate/curves/NURBSCurve.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
+import * as fflate from "https://r9uk0.github.io/crashedchocolate/libs/fflate.module.js';
+import { NURBSCurve } from "https://r9uk0.github.io/crashedchocolate/curves/NURBSCurve.js';
 
 /**
  * Loader loads FBX file and generates Group representing FBX scene.

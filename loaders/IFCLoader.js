@@ -17,8 +17,8 @@ import {
 	DoubleSide,
 	Loader,
 	FileLoader
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
-import { mergeBufferGeometries } from "https://r9uk0.github.io/Crashedchocolate/utils/BufferGeometryUtils.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
+import { mergeBufferGeometries } from "https://r9uk0.github.io/crashedchocolate/utils/BufferGeometryUtils.js';
 
 const IdAttrName = 'expressID';
 const merge = (geoms, createGroups = false) => {

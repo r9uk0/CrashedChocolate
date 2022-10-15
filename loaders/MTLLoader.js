@@ -9,7 +9,7 @@ import {
 	RepeatWrapping,
 	TextureLoader,
 	Vector2
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
 
 /**
  * Loads a Wavefront .mtl file specifying materials

@@ -32,7 +32,7 @@
  *
  **/
 
-import { LoaderUtils } from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
+import { LoaderUtils } from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
 import { LWO2Parser } from './LWO2Parser.js';
 import { LWO3Parser } from './LWO3Parser.js';
 

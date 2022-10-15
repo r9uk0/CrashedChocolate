@@ -12,8 +12,8 @@ import {
 	RGBEEncoding,
 	RGBFormat,
 	UnsignedByteType
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
-import { RGBELoader } from "https://r9uk0.github.io/Crashedchocolate/loaders/RGBELoader.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
+import { RGBELoader } from "https://r9uk0.github.io/crashedchocolate/loaders/RGBELoader.js';
 
 class HDRCubeTextureLoader extends Loader {
 

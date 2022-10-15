@@ -37,8 +37,8 @@ import {
 	Vector2,
 	Vector3,
 	VectorKeyframeTrack
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
-import { TGALoader } from "https://r9uk0.github.io/Crashedchocolate/loaders/TGALoader.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
+import { TGALoader } from "https://r9uk0.github.io/crashedchocolate/loaders/TGALoader.js';
 
 class ColladaLoader extends Loader {
 

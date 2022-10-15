@@ -3,9 +3,9 @@ import {
 	Group,
 	Loader,
 	LoadingManager
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
-import { ColladaLoader } from "https://r9uk0.github.io/Crashedchocolate/loaders/ColladaLoader.js';
-import * as fflate from "https://r9uk0.github.io/Crashedchocolate/libs/fflate.module.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
+import { ColladaLoader } from "https://r9uk0.github.io/crashedchocolate/loaders/ColladaLoader.js';
+import * as fflate from "https://r9uk0.github.io/crashedchocolate/libs/fflate.module.js';
 
 class KMZLoader extends Loader {
 

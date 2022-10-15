@@ -1,6 +1,6 @@
-import * as THREE from "https://r9uk0.github.io/Crashedchocolate/build/three.module.js";
-import { OrbitControls } from "https://r9uk0.github.io/Crashedchocolate/controls/OrbitControls.js";
-import { FontLoader } from "https://r9uk0.github.io/Crashedchocolate/loaders/FontLoader.js";
+import * as THREE from "https://r9uk0.github.io/crashedchocolate/build/three.module.js";
+import { OrbitControls } from "https://r9uk0.github.io/crashedchocolate/controls/OrbitControls.js";
+import { FontLoader } from "https://r9uk0.github.io/crashedchocolate/loaders/FontLoader.js";
 
 let camera, scene, renderer;
 
@@ -16,7 +16,7 @@ function init() {
   scene.background = new THREE.Color(0x64544e);
 
   let loader = new FontLoader();
-  loader.load('https://r9uk0.github.io/Crashedchocolate/fonts/helvetiker_regular.typeface.json', function (font) {
+  loader.load('https://r9uk0.github.io/crashedchocolate/fonts/helvetiker_regular.typeface.json', function (font) {
     let xMid, text;
     let color = 0xfcd4c4;
     let matDark = new THREE.LineBasicMaterial({

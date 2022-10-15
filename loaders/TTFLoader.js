@@ -1,8 +1,8 @@
 import {
 	FileLoader,
 	Loader
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
-import { opentype } from "https://r9uk0.github.io/Crashedchocolate/libs/opentype.module.min.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
+import { opentype } from "https://r9uk0.github.io/crashedchocolate/libs/opentype.module.min.js';
 
 /**
  * Requires opentype.js to be included in the project.

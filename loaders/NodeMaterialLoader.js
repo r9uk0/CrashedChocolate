@@ -1,9 +1,9 @@
 import {
 	Loader,
 	FileLoader
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
 
-import * as Nodes from "https://r9uk0.github.io/Crashedchocolate/nodes/Nodes.js';
+import * as Nodes from "https://r9uk0.github.io/crashedchocolate/nodes/Nodes.js';
 
 class NodeMaterialLoader extends Loader {
 

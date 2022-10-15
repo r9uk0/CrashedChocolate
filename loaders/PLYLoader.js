@@ -4,7 +4,7 @@ import {
 	Float32BufferAttribute,
 	Loader,
 	LoaderUtils
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
 
 /**
  * Description: A THREE loader for PLY ASCII files (known as the Polygon

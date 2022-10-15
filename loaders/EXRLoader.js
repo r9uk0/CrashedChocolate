@@ -11,8 +11,8 @@ import {
 	RGBEFormat,
 	RGBFormat,
 	UnsignedByteType
-} from 'https://r9uk0.github.io/Crashedchocolate/build/three.module.js';
-import * as fflate from "https://r9uk0.github.io/Crashedchocolate/libs/fflate.module.js';
+} from 'https://r9uk0.github.io/crashedchocolate/build/three.module.js';
+import * as fflate from "https://r9uk0.github.io/crashedchocolate/libs/fflate.module.js';
 
 /**
  * OpenEXR loader currently supports uncompressed, ZIP(S), RLE, PIZ and DWA/B compression.
